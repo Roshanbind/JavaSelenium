@@ -1,0 +1,29 @@
+Hello, my name is [Your Name].
+ I have completed my BCA and currently working as a Software Tester with 3 years of experience at Gravity Automation Pvt. Ltd.
+My experience includes Manual Testing, Automation Testing using Selenium with Java, and API Testing using Postman and Rest Assured.
+ I have worked on a CRM application, Vtiger CRM, as part of my project experience.
+I have a clear understanding of SDLC and STLC and actively work in an Agile environment, participating in sprint activities and daily discussions.
+ During manual testing, I analyze requirements and user stories, understand end-to-end business flows, design and execute test cases, report and track defects, and perform retesting and regression testing.
+Along with manual testing, I also contribute to automation, where I write testcases and execute Selenium automation scripts for web applications, analyze execution results, and support regression cycles.
+I also have experience in API testing, where I validate REST APIs using Postman and automate API test cases using Rest Assured by verifying requests, responses, and status codes.
+
+—--------------------------------Format 2—---------
+Hello, my name is [Your Name].
+ I have completed my BCA and currently working as a Software Tester with 3 years of experience at Gravity Automation Pvt. Ltd.
+I have worked on a CRM application, Vtiger CRM, where I am involved in both manual and automation testing activities.
+In manual testing, I analyze requirements and user stories, understand complete business flows, prepare and execute test cases, report and track defects, and perform retesting and regression testing.
+Along with manual testing, I also work on automation testing using Selenium with Java, where I write and execute automation scripts for web applications, analyze execution results, and support regression testing.
+I also have experience in API testing, where I validate REST APIs using Postman and automate API test cases using Rest Assured by verifying requests, responses, and status codes.
+I work in an Agile environment and I am actively involved in all Agile ceremonies, including Sprint Planning, Daily Stand-up meetings, Backlog Grooming or Refinement, Sprint Review, and Sprint Retrospective.
+
+—-------------------Format—--------------
+Hello, my name is [Your Name].
+ I have completed my BCA and currently working as a Software Tester with 3 years of experience at Gravity Automation Pvt. Ltd.
+I have been working on a CRM application, Vtiger CRM, where most of my involvement is in manual testing along with automation and API testing.
+In manual testing, I start with requirement and user story analysis to clearly understand business needs and application workflows.
+ Based on this, I design detailed test cases, prepare test data, and execute test cases across different test cycles.
+ I closely monitor test results, identify defects, log and track them, and coordinate with developers for fixes.
+ After fixes, I perform retesting and full regression testing to ensure that existing functionality is not impacted.
+Along with manual testing, I also work on automation testing using Selenium with Java, where I automate stable and repetitive test cases, execute automation suites, and analyze execution results to support regression testing.
+I also have experience in API testing, where I validate REST APIs using Postman and automate API test cases using Rest Assured by verifying request, response, and status codes.
+I work in an Agile environment and I am actively involved in all Agile ceremonies, including Sprint Planning, Daily Stand-up meetings, Backlog Grooming or Refinement, Sprint Review, and Sprint Retrospective, and I coordinate closely with the team throughout each sprint.
